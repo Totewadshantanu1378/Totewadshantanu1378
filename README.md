@@ -11,6 +11,4 @@
 
 ---
 
-<p align="center">
-  <img src="assets/avatar.png" alt="Coder Avatar" width="150" />
-</p>
+![Coder Avatar](https://cdn-icons-png.flaticon.com/512/1055/1055646.png)

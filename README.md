@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Shantanu Totewad!
 
-<!--
-**Totewadshantanu1378/Totewadshantanu1378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently building **AI-powered applications** and **scalable full-stack solutions**
+- 💻 Proficient in **Python**, **Django**, **React.js**, and **Machine Learning**
+- 👯 Open to collaborating on **open-source projects** and **innovative tech solutions**
+- 🤝 Looking to contribute to **system design, AI, and cloud-based projects**
+- 💬 Ask me about **Web Development, AI, and Problem-Solving in DSA**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shantanu-totewad-888707259/) | [Email](mailto:shantanutotewad04@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy solving **complex algorithms** and creating **end-to-end products** 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="assets/avatar.png" alt="Coder Avatar" width="150" />
+</p>

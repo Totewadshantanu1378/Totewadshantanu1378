@@ -27,7 +27,7 @@ Linux, Git, GitHub
 ---
 
 ## 🔍 Looking For  
-- 🤝 Opportunities in **AI, Full-Stack Development, and Cloud Projects**  
+- 🤝 Opportunities in **AI, Full-Stack Development**  
 - 🧩 Collaborations on **Open Source & Innovative Tech Solutions**  
 
 ---
